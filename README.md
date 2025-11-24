@@ -24,7 +24,8 @@ Data Preparation
    . Duplicate and irrelevant entries were cleaned prior to analysis.
    . Genre, category, and install figures were aggregated for trend identification.
     
-Key Findings
+Key Findings:
+
 Genre and Category Breakdown
    . Casual, Arcade, Action, and Family genres dominate the market, with Arcade leading installs (over 10.7 billion), reflecting broad appeal for easy-to-play games.
    . Tools, Communication, Productivity, and Entertainment are strong non-game categories with high install figures.
